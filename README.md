@@ -91,5 +91,7 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE.md](LICENSE.md) pour p
 
 ## 👤 Auteur
 
+Joel D Minko Mi Nguema
+
 ---
 ⭐️ N'hésitez pas à mettre une étoile si ce projet vous a été utile !
