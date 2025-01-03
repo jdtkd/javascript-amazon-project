@@ -1,6 +1,6 @@
 # 🛍️ Clone Amazon - Projet Front-end
 
-![Amazon Clone Preview]((https://jdtkd.github.io/javascript-amazon-project/))
+![Amazon Clone Preview](https://jdtkd.github.io/javascript-amazon-project/)
 
 ## 📝 Description
 
